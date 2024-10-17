@@ -54,7 +54,7 @@ Preparing NetBox:
 
 NetOxi is using Netbox API and custom fields in order to retrieve information about nodes.
 
-Firstly, create custom tag for devices that you want to backup. NetOxi is searching devices with that tag to parse through. It can be anything, but by default it is ```oxidized-pool'''
+Firstly, create custom tag for devices that you want to backup. NetOxi is searching devices with that tag to parse through. It can be anything, but by default it is ```oxidized-pool```
 
 After that, NetOxi needs few custom fields: [SSH_IP], [OS] and [AD_Authentication]. Name of these tags is not customizable yet.
 
